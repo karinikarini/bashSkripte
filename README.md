@@ -1,5 +1,5 @@
 # Git Repo
 
-blaBlaBla
+hahaha 
 
-Kurs Workshop 2022-07
+Kurs Workshop 2022-07-12
